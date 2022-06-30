@@ -54,4 +54,7 @@
 h1{
     margin: 0px;
     font-size: xx-large;
+    text align: centre;
+    position: relative;
+    top: 170px;
 }
