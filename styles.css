@@ -1,0 +1,57 @@
+.bio{
+    background-color:blue;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    text-align: center;
+
+}
+.bio:hover{
+    background-color: brown;
+}
+.photo{
+    background-color:aqua;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    margin-left: 380px;
+    text-align: center;
+}
+.photo:hover{
+    background-color: black;
+}
+.education{
+    background-color: red;
+    width:385px;
+    height:400px;
+    margin-left: 400px;
+    text-align: centre;
+}
+.education:hover{
+    background-color: azure;
+}
+.hobbies{
+    background-color: purple;
+    width:400px;
+    height:400px;
+    display: inline-block;
+    text-align: center;
+}
+.hobbies:hover{
+    background-color: brown;
+}
+.contact{
+    background-color:cyan;
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 380px;
+    text-align: center;
+}
+.contact:hover{
+    background-color: coral;
+}
+h1{
+    margin: 0px;
+    font-size: xx-large;
+}
